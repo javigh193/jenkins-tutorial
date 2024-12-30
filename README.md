@@ -1,2 +1,2 @@
 # jenkins-tutorial
-Going through the official Jenkins tutorials
+Going through some Jenkins tutorials
