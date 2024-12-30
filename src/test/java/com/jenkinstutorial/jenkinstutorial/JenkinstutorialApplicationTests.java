@@ -2,6 +2,8 @@ package com.jenkinstutorial.jenkinstutorial;
 
 import static org.junit.Assert.assertEquals;
 
+import org.junit.jupiter.assertEquals;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
