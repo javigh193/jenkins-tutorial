@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class JenkinstutorialApplicationTests {
 
-	public static Logger logger = LoggerFactory.getLogger(JenkinstutorialApplicationTest.class);
+	public static Logger logger = LoggerFactory.getLogger(JenkinstutorialApplicationTests.class);
 
 	@Test
 	void contextLoads() {
